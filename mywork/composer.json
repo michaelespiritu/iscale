@@ -1,0 +1,9 @@
+{
+  "autoload": {
+      "psr-4": {
+          "iScale\\Manager\\": "src/Manager/",
+          "iScale\\Model\\": "src/Model/",
+          "iScale\\DB\\": "src/DB/"
+      }
+  }
+}
